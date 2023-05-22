@@ -31,3 +31,7 @@ Ej. git pull
 Trae los metadatos sobre commits, ramas, refs, etc. de un repositorio remoto.
 No descarga cambios a la rama local, solo trae los metadatos.
 Ej. git fetch
+
+Ramas:
+TODO: Agregar definicion de ramas.
+
